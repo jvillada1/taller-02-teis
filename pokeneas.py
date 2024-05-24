@@ -6,7 +6,7 @@ import socket
 app = Flask(__name__)
 
 # Leer datos del archivo JSON
-with open('pokeneas.json') as f:
+with open('pokeneas.json','r') as f:
     pokeneas = json.load(f)
 
 @app.route('/api/pokenea', methods=['GET'])
