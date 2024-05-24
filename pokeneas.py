@@ -22,7 +22,7 @@ def get_pokenea():
     }
     return jsonify(response)
 
-@app.route('/pokenea', methods=['GET'])
+@app.route('/pokenea')
 def show_pokenea():
     pokenea = random.choice(pokeneas)
     container_id = socket.gethostname()
