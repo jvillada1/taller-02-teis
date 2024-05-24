@@ -1,0 +1,77 @@
+{
+    "pokeneas": [
+      {
+        "id": 1,
+        "nombre": "Pikachu",
+        "altura": "0.4m",
+        "habilidad": "Electricidad estática",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+        "frase_filosofica": "La vida es un constante cambio."
+      },
+      {
+        "id": 2,
+        "nombre": "Charmander",
+        "altura": "0.6m",
+        "habilidad": "Mar llamas",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+        "frase_filosofica": "El conocimiento es poder."
+      },
+      {
+        "id": 3,
+        "nombre": "Bulbasaur",
+        "altura": "0.7m",
+        "habilidad": "Espesura",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+        "frase_filosofica": "La mente es el arma más poderosa."
+      },
+      {
+        "id": 4,
+        "nombre": "Squirtle",
+        "altura": "0.5m",
+        "habilidad": "Torrente",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "frase_filosofica": "La verdadera fuerza reside en el corazón."
+      },
+      {
+        "id": 5,
+        "nombre": "Jigglypuff",
+        "altura": "0.5m",
+        "habilidad": "Gran encanto",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+        "frase_filosofica": "El fuego purifica y renueva."
+      },
+      {
+        "id": 6,
+        "nombre": "Eevee",
+        "altura": "0.3m",
+        "habilidad": "Fuga",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+        "frase_filosofica": "La adaptabilidad es clave para la supervivencia."
+      },
+      {
+        "id": 7,
+        "nombre": "Snorlax",
+        "altura": "2.1m",
+        "habilidad": "Inmunidad",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+        "frase_filosofica": "El descanso es vital para la fuerza."
+      },
+      {
+        "id": 8,
+        "nombre": "Gengar",
+        "altura": "1.5m",
+        "habilidad": "Levitación",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+        "frase_filosofica": "La sombra siempre sigue a la luz."
+      },
+      {
+        "id": 9,
+        "nombre": "Mewtwo",
+        "altura": "2.0m",
+        "habilidad": "Presión",
+        "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+        "frase_filosofica": "El verdadero poder reside en el control de uno mismo."
+      }
+    ]
+  }
+  
